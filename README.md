@@ -6,5 +6,4 @@ A Github Profile finder using jQuery :+1:
 ![Screenshot](screenshot2.png)
 
 ## Help
-For detailed explanation of how things work you can visit [TraversyMedia Youtube channel]
-(https://youtu.be/lIKrfLWNsUI) or you can contact me via Gmail.
+For detailed explanation of how things work you can visit [TraversyMedia Youtube channel](https://youtu.be/lIKrfLWNsUI) or you can contact me via Gmail.
