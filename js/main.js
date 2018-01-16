@@ -70,7 +70,7 @@ $(document).ready(function () {
             </div>
           </div>
         </div>
-        <h3 class="page-header my-2">Latest Repos</h3>
+        <h3 class="page-header my-2">Latest Repositories</h3>
         <div id="repos" class="row justify-content-md-center"></div>
       `);
         });
