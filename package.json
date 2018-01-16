@@ -1,0 +1,24 @@
+{
+  "name": "finder-jquery",
+  "version": "1.0.0",
+  "description": "A simple Github profile finder using jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medinacharlesdan/Profile-Finder.git"
+  },
+  "keywords": [
+    "jQuery",
+    "javaScript",
+    "es6"
+  ],
+  "author": "Charles Dan Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medinacharlesdan/Profile-Finder/issues"
+  },
+  "homepage": "https://github.com/medinacharlesdan/Profile-Finder#readme"
+}
